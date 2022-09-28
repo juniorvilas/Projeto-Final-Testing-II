@@ -3,7 +3,7 @@ Projeto em dupla: Carlindo Junior e Larissa Nunes
 
 Enunciado: https://docs.google.com/document/d/1JfxtFWFwAibaAxgFtn-coSRMgc3LUYiYfzD4HEV1i90/edit
 
-##Objetivo
+## **Objetivo**
 Criar um projeto completo de Testes Automatizados utilizando Java e Selenium, com Suítes, Tags, e Reports, validando também uma API RestAssured. E pra finalizar faremos uma integração com Jenkins (opcional)
 Site a ser testado: Para Bank
 
