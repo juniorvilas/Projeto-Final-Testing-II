@@ -1,7 +1,7 @@
 # Projeto-Final-Testing-II
 Curso: Cetified Tech Developer - DH
 Data: 27/09/2022
-Projeto em dupla: Carlindo Junior e Larissa Nunes
+Projeto em dupla: [Carlindo Junior](https://github.com/juniorvilas) e [Larissa Nunes](https://github.com/Larissa-Nunes)
 
 Enunciado: [link](https://docs.google.com/document/d/1JfxtFWFwAibaAxgFtn-coSRMgc3LUYiYfzD4HEV1i90/edit)
 
