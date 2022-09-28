@@ -3,7 +3,7 @@ Curso: Cetified Tech Developer - DH
 Data: 27/09/2022
 Projeto em dupla: Carlindo Junior e Larissa Nunes
 
-Enunciado: https://docs.google.com/document/d/1JfxtFWFwAibaAxgFtn-coSRMgc3LUYiYfzD4HEV1i90/edit
+Enunciado: [link](https://docs.google.com/document/d/1JfxtFWFwAibaAxgFtn-coSRMgc3LUYiYfzD4HEV1i90/edit)
 
 ## **Objetivo**
 Criar um projeto completo de Testes Automatizados utilizando Java e Selenium, com Suítes, Tags, e Reports, validando também uma API RestAssured. *E pra finalizar faremos uma integração com Jenkins (opcional)*
@@ -53,11 +53,11 @@ Criar um projeto completo de Testes Automatizados utilizando Java e Selenium, co
 
 **Testes back-end API Rest:**
 * **Validação de status code 200 para todas as etapas de Testes Front-end**
-    1. Registro URL: https://parabank.parasoft.com/parabank/register.htm
-    2. Abertura de nova conta URL: https://parabank.parasoft.com/parabank/services_proxy/bank/createAccount?customerId=12545&newAccountType=1&fromAccountId=xxxxx
-    3. Visão geral das contas URL: https://parabank.parasoft.com/parabank/overview.htm
-    4. Transferir Fundos URL: https://parabank.parasoft.com/parabank/services_proxy/bank/transfer?fromAccountId=13566&toAccountId=13677&amount=xxxxx
-    5. Atividades da conta (todos od meses) URL: https://parabank.parasoft.com/parabank/services_proxy/bank/accounts/13566/transactions/month/All/type/All
+    1. Registro URL: [link](https://parabank.parasoft.com/parabank/register.htm)
+    2. Abertura de nova conta URL: [link](https://parabank.parasoft.com/parabank/services_proxy/bank/createAccount?customerId=12545&newAccountType=1&fromAccountId=xxxxx)
+    3. Visão geral das contas URL: [link](https://parabank.parasoft.com/parabank/overview.htm)
+    4. Transferir Fundos URL: [link](https://parabank.parasoft.com/parabank/services_proxy/bank/transfer?fromAccountId=13566&toAccountId=13677&amount=xxxxx)
+    5. Atividades da conta (todos od meses) URL: [link](https://parabank.parasoft.com/parabank/services_proxy/bank/accounts/13566/transactions/month/All/type/All)
 
 **Integração com Jenkins:**
 * **Adicione o seu código a um repositório Github para integrá-lo ao Jenkins e criar o Job Pipeline**
@@ -65,7 +65,7 @@ Criar um projeto completo de Testes Automatizados utilizando Java e Selenium, co
     2. Crie um Job Pipeline (Pipeline Script from SCM)
 
 
-**Dica**
+**Dica:**
 
 Não é necessário informar dados verdadeiros nos formulários durante o teste.
 Podemos utilizar, por exemplo,  um gerador de dados: https://generatedata.com/
